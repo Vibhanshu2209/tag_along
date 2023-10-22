@@ -200,7 +200,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       // Show total budget from the list of all BudgetEntries
                       Text(
                         'Total Budget: \$ ${_calculateTotalBudget(_budgetEntries).toStringAsFixed(2)}',
-                        style: const TextStyle(fontSize: 24),
+                        style: const TextStyle(fontSize: 36),
                       )
                     ],
                   ),
