@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "tagalong",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authtagalong6cda3df7",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

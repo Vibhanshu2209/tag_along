@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tagalong-dev-131618-authRole",
+      "UnauthRoleArn": "arn:aws:iam::096152573586:role/amplify-tagalong-dev-131618-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::096152573586:role/amplify-tagalong-dev-131618-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tagalong-dev-131618-deployment",
+      "UnauthRoleName": "amplify-tagalong-dev-131618-unauthRole",
+      "StackName": "amplify-tagalong-dev-131618",
+      "StackId": "arn:aws:cloudformation:us-east-1:096152573586:stack/amplify-tagalong-dev-131618/195b0fd0-70af-11ee-b7e6-0e1dcdb601b1",
+      "AmplifyAppId": "d1ypc9hwemnux2"
+    },
+    "categories": {
+      "auth": {
+        "tagalong6cda3df7": {}
+      },
+      "api": {
+        "tagalong": {}
+      }
+    }
+  }
+}

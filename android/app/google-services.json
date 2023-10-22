@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "900424041554",
+    "firebase_url": "https://event-pool-v2209-default-rtdb.firebaseio.com",
+    "project_id": "event-pool-v2209",
+    "storage_bucket": "event-pool-v2209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900424041554:android:b0b7b4ff57a20613b6cb8b",
+        "android_client_info": {
+          "package_name": "com.diyapp.al"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900424041554-6id650jmh9v9qjrvmhrnl20e0bg10kgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXk0_HOXx3lD5yTUhfBNECkQsa3YaZXxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900424041554-6id650jmh9v9qjrvmhrnl20e0bg10kgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900424041554-kqgroprv0pi9ugrsqc1n2jfe1acua58c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diyapp.al"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900424041554:android:a6a65901c895338eb6cb8b",
+        "android_client_info": {
+          "package_name": "com.example.tag_along"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900424041554-6id650jmh9v9qjrvmhrnl20e0bg10kgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXk0_HOXx3lD5yTUhfBNECkQsa3YaZXxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900424041554-6id650jmh9v9qjrvmhrnl20e0bg10kgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900424041554-kqgroprv0pi9ugrsqc1n2jfe1acua58c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diyapp.al"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
